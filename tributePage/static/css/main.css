@@ -1,0 +1,44 @@
+#title {
+  text-align: center;
+}
+#main{
+  margin: 30px auto;
+  padding: 15px;
+  border: 0px solid;
+  border-radius: 50xp;
+  background: #eee;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#img-caption {
+  margin: 15px;
+}
+
+body {
+  font-family : "Trebuchet MS", Helvetica, sans-serif;
+  text-align: center;
+  color:#333;
+}
+#img-div{
+  magin: -5px;
+  margin-top: 20px;
+  width: 100%;
+  border: 5px solid white;
+  background: white;
+}
+li {
+  margin: 10px;
+}
+
+ul {
+  text-align: left;
+}
+
+blockquote {
+  font-style: italic;
+}
